@@ -7,10 +7,19 @@ If you're interested in any of our services, you can read more about those on ou
 ## SSHKey Tools
 A python package for handling OpenSSH Keys as well as OpenSSH Certificates ([PROTOCOL.certkeys](https://cvsweb.openbsd.org/src/usr.bin/ssh/PROTOCOL.certkeys?annotate=HEAD)).
 
-## SSO Shell [Work in progress]
+## VSCode iTop Tools
+VSCode extension for various iTop operations and snippets
+
+## VSCode NetPack
+Extension pack for .NET development in VSCode
+
+## VSCode PyPack
+Extension pack for Python development in VSCode
+
+## SSO Shell [WIP]
 A Django-based PAM tool for managing short-term access to OpenSSH Servers with OpenSSH Certificates.
 
-## PY Pax8 [Upcoming]
+## PY Pax8 [WIP]
 A python library for working with the Pax8 partner APIs
 
 ## MSPTools [Upcoming]
